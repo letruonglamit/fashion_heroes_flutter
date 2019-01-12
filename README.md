@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+## Screen Shot
+
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+    <img src="https://i.imgur.com/7A2iHfV.png" width="200"/></a>
+</td>
+<td style="text-align: center">
+<img src="https://i.imgur.com/uDrWrau.png" width="200" />
+  </a>
+</td>
+</tr></table></div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
